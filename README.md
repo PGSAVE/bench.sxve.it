@@ -2,7 +2,14 @@
 
 A lightweight Bash script to benchmark your server hardware and network in one command.  
 No dependencies, no installation — just run via `wget | bash`.
+---
+## 🛠️ Usage
 
+Run on any Linux server:
+
+```bash
+wget -qO- bench.sxve.it | bash
+```
 ---
 
 ## 📋 Features
@@ -27,15 +34,6 @@ No dependencies, no installation — just run via `wget | bash`.
 
 ✅ Color‑coded, easy‑to‑read output
 
----
-
-## 🛠️ Usage
-
-Run on any Linux server:
-
-```bash
-wget -qO- bench.sxve.it | bash
-```
 
 ---
 
