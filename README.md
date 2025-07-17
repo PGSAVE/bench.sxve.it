@@ -1,6 +1,6 @@
 # 🚀 bench.sxve.it — Server Benchmark
 
-# IN PROGRESS. MAY CONTAIN ERRORS.
+# ❗️ IN PROGRESS. MAY CONTAIN ERRORS.
 
 A lightweight Bash script to benchmark your server hardware and network in one command.  
 No dependencies, no installation — just run via `wget | bash`.
